@@ -1,4 +1,4 @@
-This folder contains the models used to 3D print parts of the activity. All models are unsliced .stl files.
+This folder contains the models used to 3D print parts of the activity. All models are unsliced .stl files, and thus can be used with any type of 3D printer.
 
 These models are designed to be used in conjunction with each other, and PVC pipes that have ~3.2cm inner diameter and ~3.6cm outer diameter. 
 
